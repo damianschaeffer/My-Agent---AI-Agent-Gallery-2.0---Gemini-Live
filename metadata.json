@@ -1,0 +1,7 @@
+{
+  "name": "My Agent - AI Agent Gallery 2.0",
+  "description": "A world-class conversational AI showcase featuring 25 unique, human-like personalities powered by Gemini Live API. Experience real-time emotional intelligence and dynamic context capture.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
